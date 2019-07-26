@@ -174,8 +174,16 @@ iphoneCase = data.frame("brandName" = output$brand_name ,"currentPrice" = curren
                         "numReview" = NumOfReview, "numStars" = NumOfStars,"productShipCode" = productShipCode,
                         "pageRank" = rankByBrand, "pageNum"= pageNum)
 
+
+iphoneCaseBI = data.frame("productName" = output$product_name, "brandName" = output$brand_name ,"currentPrice" = currentPrice,"discount" = output$discounted,
+                        "wordCount" = wordCount, "material" = material, "color" = color, "model" = model,
+                        "numReview" = NumOfReview, "numStars" = NumOfStars,"productShipCode" = productShipCode,
+                        "pageRank" = rankByBrand, "pageNum"= pageNum)
+
 ##Output the final dataset
 write.csv(iphoneCase, file = "iphoneCase.csv")
+
+write.csv(iphoneCaseBI, file = "iphoneCaseBI.csv")
 ###################################################################################################################
 
 ############################### Don't forget to check your data ############################### 
@@ -194,7 +202,7 @@ corrplot(res, type = "upper", order = "hclust",
 library(leaps)
 subset <- regsubsets(pageRank ~. , data = numIphone2, method = "forward")
 summary(subset)
-#########################################################################################################
+
 
 
 

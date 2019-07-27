@@ -6,9 +6,9 @@ The official repository and source of knowledge for MSA students taking part in 
 
 Submissions close **8am 17th August 2019**.
 
-Data assignment brief can be found [here](https://github.com/NZMSA/2019-Phase-2-Data-AI/blob/master/Assessment/Data%20Stream%202019%20Assessment%20Criteria.pdf).
+Data assignment brief can be found [here](https://github.com/NZMSA/2019-Phase-2-Data-AI/blob/master/Assessment/MSA-Assessment-Data.pdf).
 
-AI assignment brief can be found [here](https://github.com/NZMSA/2019-Phase-2-Data-AI/blob/master/Assessment/AI%20Stream%202019%20Assessment%20Criteria.pdf).
+AI assignment brief can be found [here](https://github.com/NZMSA/2019-Phase-2-Data-AI/blob/master/Assessment/MSA%20Assessment-AI.pdf).
 
 # Your Device
 

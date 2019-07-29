@@ -2,6 +2,10 @@
 
 The official repository and source of knowledge for MSA students taking part in MSA 2019 Phase 2 Training - Data + AI stream.
 
+# Lecture Recording
+
+[Data + AI Training Day 2](https://youtu.be/aJMpBInqgJU)
+
 # Assignment
 
 Submissions close **8am 17th August 2019**.

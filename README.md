@@ -4,7 +4,7 @@ The official repository and source of knowledge for MSA students taking part in 
 
 # Lecture Recording
 
-[Data + AI Training Day 2](https://youtu.be/aJMpBInqgJU)
+[Data + AI Training Phase 2](https://youtu.be/aJMpBInqgJU)
 
 # Assignment
 
